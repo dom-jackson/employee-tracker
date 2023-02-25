@@ -286,7 +286,7 @@ function updateEmployeeRole() {
             [answer.roleId, answer.employeeId],
             (err, res) => {
               if (err) throw err;
-              console.log(`Employee role updated successfully!\n`);
+              console.log(`Updated Employee's role\n`);
               start();
             }
           );
