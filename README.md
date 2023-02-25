@@ -25,7 +25,7 @@
   ## Usage
   The following video is a demonstration of how this Team profile generator is operated.
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1tMJrAkbcXY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  A video walkthrough can be found at the following link: https://youtu.be/1tMJrAkbcXY
 
   
   ## License
