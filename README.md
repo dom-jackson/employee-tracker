@@ -25,9 +25,8 @@
   ## Usage
   The following video is a demonstration of how this Team profile generator is operated.
   
-  <video controls>
-  <source src=".\assets\employee-tracker-video.webm" type="video/webm">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1tMJrAkbcXY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
   
   ## License
 This project is licensed under the MIT license.
